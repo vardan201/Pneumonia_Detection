@@ -1,3 +1,9 @@
+NOTE:- Models cannot be pushed directly as it is a big file. The code to save and download the model first is also written in the jupyter notebook so kindly save and download the model first to use the app.py.
+
+
+
+
+
 # 🩺 Pneumonia Detection from Chest X-Rays using Deep Learning
 
 This project uses **deep learning with transfer learning (ResNet50)** to classify chest X-ray images as either **PNEUMONIA** or **NORMAL**. It leverages preprocessing, augmentation, fine-tuning, and class balancing to achieve high performance.
